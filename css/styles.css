@@ -159,7 +159,7 @@ div#zonaCapture div#buttons{
 	top: 530px;
 }
 
-@media (min-width: 320px) {
+/*@media (min-width: 320px) {
 	.all{
 		transform: scale(0.6);
 	}
@@ -208,7 +208,7 @@ div#zonaCapture div#buttons{
 		left: 511px;
 		font-size: 15px;
 	}
-}
+}*/
 
 
 button#snap{
